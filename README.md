@@ -1,7 +1,6 @@
 ## WordleJava
 * Enterance via google account is allowed:
-![WhatsApp Image 2023-05-05 at 12 18 28 (2)](https://user-images.githubusercontent.com/109238953/236421083-1db572a2-4e52-4ddd-8147-4c807731860f.jpeg)
-
+<img src="https://user-images.githubusercontent.com/109238953/236421083-1db572a2-4e52-4ddd-8147-4c807731860f.jpeg"  width="60%" height="30%">
 ![tempsnip](https://user-images.githubusercontent.com/109238953/236422690-493ad090-e0b8-4ba3-b072-57dd6ee644e0.png)
 
 * Pictures inside the app:
