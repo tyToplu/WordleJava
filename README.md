@@ -5,8 +5,7 @@
 
 
 * Pictures inside the app:
-<img src="https://user-images.githubusercontent.com/109238953/236423610-4282503d-0036-483c-b4ec-56a9be062262.jpeg
-"  width="30%" height="15%">
+<img src="https://user-images.githubusercontent.com/109238953/236424069-b51c9236-bf67-4448-b847-11a9c0c085d7.jpeg"  width="30%" height="15%">
 
 
 <img src="https://user-images.githubusercontent.com/109238953/236423657-e6210548-e71b-4805-86b7-337501465bc9.jpeg
